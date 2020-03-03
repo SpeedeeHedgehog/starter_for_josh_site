@@ -1,0 +1,60 @@
+body{
+    font-size: 16px;
+    font-family: arial, sans-serif;
+}
+
+.navbar{
+    font-size: 0.875em;
+}
+
+a{
+    color: #e5e4e4;
+}
+
+a:hover{
+    color: #ed7d1e;
+}
+
+.nav > li > a:hover{
+    background-color: transparent;
+}
+
+.navbar-toggle .icon-bar{
+    background-color: #e5e4e4;
+}
+
+.navbar-toggle:hover{
+    background-color: #ed7d1e;
+}
+
+.orange{
+    color: darkorange;
+    font-size: 2em;
+}
+
+.josh{
+/*    color: darkorange;*/
+    font-size: 2em;
+}
+
+.hero-bg{
+    background: url(Images/header-bg.jpg);
+    background-size: cover;
+}
+
+.hero-bg h1{
+    float: right;
+    color: #ffff;
+    width: 341px;
+    font-size: 6.1em;
+    letter-spacing: -10px;
+    font-weight: 800;
+    line-height: 75%;
+    margin-top: 140px;
+    text-align: right;
+    padding-bottom: 10%;
+}
+
+
+
+
