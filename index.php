@@ -22,7 +22,7 @@
                       <h3 class="text-center article-title">LATEST ARTICLES</h3>
                   </div>
                   <div class="col-md-4 article-cent">
-                      <img class="img-responsive" alt="a portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/portrait-image.jpg">
+                      <img class="img-responsive" alt="a portrait" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/portrait-image.jpg">
                       <h4>A PORTRAIT</h4>
                       <p class="date">12 December 2020</p>
                       <p>STS has never been shy of seeking new terrains of investigation. More and more STS scholars are starting to explore and intervene in the arts. This object of study brings new challenges and opportunities that we want to explore in this session. We would like to gather first of all simply new kinds of knowledge arising from STS study of the arts.</p>
@@ -30,7 +30,7 @@
                   </div> <!--column-->
                   
                   <div class="col-md-4 article-cent">
-                      <img class="img-responsive" alt="a model" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/model-image.jpg">
+                      <img class="img-responsive" alt="a model" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/model-image.jpg">
                       <h4>A PORTRAIT</h4>
                       <p class="date">12 December 2020</p>
                       <p>STS has never been shy of seeking new terrains of investigation. More and more STS scholars are starting to explore and intervene in the arts. This object of study brings new challenges and opportunities that we want to explore in this session. We would like to gather first of all simply new kinds of knowledge arising from STS study of the arts.</p>
@@ -38,7 +38,7 @@
                   </div> <!--column-->
                   
                   <div class="col-md-4 article-cent">
-                      <img class="img-responsive" alt="games design" src="http://206.189.45.97/~mesh1/wp-content/themes/josh_theme_wp_fiinished/images/games-design-image.jpg">
+                      <img class="img-responsive" alt="games design" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/games-design-image.jpg">
                       <h4>A PORTRAIT</h4>
                       <p class="date">12 December 2020</p>
                       <p>STS has never been shy of seeking new terrains of investigation. More and more STS scholars are starting to explore and intervene in the arts. This object of study brings new challenges and opportunities that we want to explore in this session. We would like to gather first of all simply new kinds of knowledge arising from STS study of the arts.</p>
