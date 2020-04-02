@@ -42,8 +42,7 @@
   </head>
   <body>
       
-<header class="container-fluid hero-bg"> <!--div for main images goes to edges of the page-->
-      
+<header class="container-fluid herobg"<?php if ( get_field(' headerbackgroundimage ') ) { echo 'style="background: url(' . get_field(' headerbackgroundimage ') . ')"'; } ?>>
 <nav class="navbar">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -72,7 +71,8 @@
       
       
     <div class="container"> <!--div for holding header content in centre-->
-        <h1>Games Design for the Future</h1> <!--tagline-->
+        <h1><?php the_field('maintagline'); ?></h1>
+<!--tagline-->
     </div> <!--conatiner-->
       
 </header>
