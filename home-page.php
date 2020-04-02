@@ -27,23 +27,35 @@
           <div class="container">
               <div class="row"> <!--row to get access to bootstrap columns-->
                   <div>
-                      <h3 class="text-center article-title">LATEST ARTICLES</h3>
+                      <h3 class="text-center article-title "><?php the_field('titleforarticles'); ?></h3>
                   </div>
                   <div class="col-md-4 article-cent">
 
 <!--placeholder for col1-->
+                      <img class="img-responsive" alt=“portait” src="<?php the_field('articleimage'); ?>">
+                      <h4><?php the_field('articletitle'); ?></h4>
+                      <p><?php the_field('articleexcerpt'); ?> </p>
+                      <a href="<?php the_field('readmore'); ?>" class="readmore">CONTINUE READING</a>
 
                   </div> <!--column-->
                   
                   <div class="col-md-4 article-cent">
 
 <!--placeholder for col2-->
+                      <img class="img-responsive" alt=“model” src="<?php the_field('articleimage2'); ?>">
+                      <h4><?php the_field('articletitle2'); ?></h4>
+                      <p><?php the_field('articleexcerpt2'); ?> </p>
+                      <a href="<?php the_field('readmore2'); ?>" class="readmore">CONTINUE READING</a>
 
                   </div> <!--column-->
                   
                   <div class="col-md-4 article-cent">
 
 <!--placeholder for col3-->
+                      <img class="img-responsive" alt=“racetrack” src="<?php the_field('articleimage3'); ?>">
+                      <h4><?php the_field('articletitle3'); ?></h4>
+                      <p><?php the_field('articleexcerpt3'); ?> </p>
+                      <a href="<?php the_field('readmore3'); ?>" class="readmore">CONTINUE READING</a>
 
                   </div> <!--column-->
               
