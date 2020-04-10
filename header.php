@@ -70,7 +70,7 @@
       
       
       
-    <div class="container"> <!--div for holding header content in centre-->
+    <div class="container animated fadeInRight"> <!--div for holding header content in centre-->
         <h1><?php the_field('maintagline'); ?></h1>
 <!--tagline-->
     </div> <!--conatiner-->
